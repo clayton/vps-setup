@@ -407,7 +407,7 @@ function log {
   postfix_install_loopback_only
 
 # Installing Ruby
-  export RUBY_VERSION="ruby-2.0.0-p0"
+  export RUBY_VERSION="ruby-2.0.0-p247"
   log "Installing Ruby $RUBY_VERSION"
 
   log "Downloading: (from calling wget ftp://ftp.ruby-lang.org/pub/ruby/2.0/$RUBY_VERSION.tar.gz)" 
